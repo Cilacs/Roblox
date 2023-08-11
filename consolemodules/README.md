@@ -6,6 +6,6 @@
 ------
 
 #### Booting up the Library
-ˋˋˋlua
+```lua
 print("test")
-ˋˋˋ
+```
