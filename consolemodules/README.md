@@ -7,7 +7,7 @@
 ###### *The documentation of this script*
 ------
 
-###### Booting up the Library
+#### Booting up the Library
 ˋˋˋlua
 print("test"k
 ˋˋˋ
