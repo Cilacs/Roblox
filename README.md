@@ -3,4 +3,4 @@
 ------
 List Of All Projects:
 |---|---|
-|test|another|
+| test | another |
