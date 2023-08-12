@@ -6,4 +6,4 @@ List Of All Projects:
 |------|---------|--------|-------|
 | Roblox Modules | Today | Online | Now |
 
-<img src="https://i.waifu.pics/dgH6CzF.jpg" alt="drawing" width="200"/>
+<img src="https://i.waifu.pics/dgH6CzF.jpg" alt="drawing" width="60"/>
